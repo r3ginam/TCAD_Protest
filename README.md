@@ -6,9 +6,12 @@ As well, 5363 was refinanced in 2020 and given an appraised value of $406,000, m
 
 
 The chart below shows the difference in value from the sold price of the home. 
+
 ![](difference.png)
 
+
 This chart shows the price per square foot of all the properties analyzed including 5363. 
+
 ![](/Price_per_square_foot.png)
 
 
